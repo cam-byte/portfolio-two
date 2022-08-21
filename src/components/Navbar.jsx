@@ -33,7 +33,7 @@ const Navbar = () => {
             </li>
             <li>
             <Link to='skills' smooth={true} duration={500}>
-                Skills
+                Skillz
               </Link>
             </li>
             <li>
