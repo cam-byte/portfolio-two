@@ -27,12 +27,12 @@ const Work = () => {
                 Library People Counter Project
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://cs.newpaltz.edu/p/f21-16/v0/graphDailyReport.php'target="_blank">
+                <a rel="noreferrer" href='https://cs.newpaltz.edu/p/f21-16/v0/graphDailyReport.php'target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/cam-byte/LibraryCountingCamera'target="_blank">
+                <a rel="noreferrer" href='https://github.com/cam-byte/LibraryCountingCamera'target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -50,7 +50,7 @@ const Work = () => {
                 Grocery POS Website Project
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/CloudPOSFall/GroceryPOS'target="_blank">
+                <a rel="noreferrer" href='https://github.com/CloudPOSFall/GroceryPOS'target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>

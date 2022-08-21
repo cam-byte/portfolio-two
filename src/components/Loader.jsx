@@ -1,5 +1,3 @@
-import React, {useState,useEffect} from 'react';
-import ClipLoader from "react-spinners/ClipLoader";
 import rabbit from "../assets/rabbitrun.gif"
 const Loader = () => {
   return (
